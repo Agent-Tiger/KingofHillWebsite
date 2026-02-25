@@ -276,6 +276,8 @@ ul {
   border: 1px solid var(--border);
   width: 100%;
   overflow-x: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .webgl-content {
