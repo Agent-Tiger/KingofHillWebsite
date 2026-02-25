@@ -316,3 +316,8 @@ ul {
 .webgl-content .footer .fullscreen {
   display: none;
 }
+
+.webgl-content .footer .instructions {
+  text-align: right;
+  max-width: 60%;
+}
